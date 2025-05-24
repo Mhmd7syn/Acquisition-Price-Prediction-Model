@@ -1,0 +1,6 @@
+features,num_features,train_r2,test_r2
+"('Acquiring_Total_Funding', 'Acquiring_Text_providing', 'Acquiring_Text_web', 'Acquired_Text_online', 'Acquired_Text_service', 'News_Text_million')",6,0.297768792,0.439362682
+"('Acquiring_Total_Funding', 'Acquiring_Text_platform', 'Acquiring_Text_providing', 'Acquiring_Text_web', 'Acquired_Text_online', 'Acquired_Text_service', 'News_Text_million')",7,0.306675527,0.43687741
+"('Acquiring_Total_Funding', 'Acquiring_Text_global', 'Acquiring_Text_providing', 'Acquired_Text_service', 'News_Text_million')",5,0.320545675,0.430956302
+"('Acquiring_Total_Funding', 'Acquiring_Text_platform', 'Acquiring_Text_providing', 'Acquiring_Text_web', 'Acquired_Text_service', 'News_Text_million')",6,0.300884577,0.428488158
+"('Acquiring_Total_Funding', 'Acquiring_Text_providing', 'Acquiring_Text_web', 'Acquired_Text_service', 'News_Text_million')",5,0.289908738,0.419737201

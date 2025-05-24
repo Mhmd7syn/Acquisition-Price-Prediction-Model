@@ -1,0 +1,8 @@
+features,num_features,train_r2,test_r2
+"('Acquiring_Text_customer', 'Acquired_Text_service', 'News_Text_million')",3,0.8140323611504181,0.20874936232177455
+"('Acquiring_Text_customer', 'Acquired_Text_service')",2,0.8075981935023515,0.18648096277054205
+"('Acquiring_State_California', 'Acquiring_Text_global', 'Acquired_Text_service', 'News_Text_million', 'Acquiring_Founders_length')",5,0.830431159,0.18493974563139093
+"('Acquiring_Number_of_Employees_year_of_last_update', 'Acquiring_Text_global', 'Acquired_Text_business', 'Acquired_Text_service')",4,0.8486211775442093,0.18161618971893712
+"('Acquiring_State_California', 'Acquiring_Text_also', 'Acquiring_Text_global', 'Acquiring_Text_providing', 'Acquiring_Text_web', 'Acquired_Text_business', 'Acquired_Text_online', 'Acquired_Text_service', 'News_Text_million', 'Acquiring_Market_Categories_length')",10,0.8961971902947481,0.15921922645304543
+"('Acquiring_Number_of_Employees', 'Acquiring_Total_Funding', 'Acquiring_Text_global', 'Acquiring_Text_platform', 'Acquiring_Text_providing', 'Acquired_Text_business', 'Acquired_Text_online', 'Acquired_Text_service', 'News_Text_million', 'Acquiring_Market_Categories_length', 'Acquiring_Founders_length')",11,0.8958317815970952,0.1579678723876956
+"('Acquiring_IPO', 'Acquiring_Total_Funding', 'Acquiring_State_California', 'Acquiring_Text_customer', 'Acquiring_Text_global', 'Acquiring_Text_platform', 'Acquired_Text_business', 'Acquired_Text_service', 'News_Text_million', 'Acquiring_Founders_length')",10,0.8850327640146106,0.1561928370128839

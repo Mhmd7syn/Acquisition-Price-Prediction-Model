@@ -1,0 +1,8 @@
+features,num_features,train_r2,test_r2
+"('Acquiring_Total_Funding', 'Acquired_Text_service', 'News_Text_million', 'Acquiring_Founders_length')",4,0.6446415453020115,0.3159074462038398
+"('Acquiring_Total_Funding', 'Acquiring_Text_customer', 'Acquiring_Text_global', 'Acquiring_Text_web', 'Acquired_Text_online', 'Acquired_Text_service', 'News_Text_million', 'Acquiring_Founders_length')",8,0.6834328515809713,0.3074720074291406
+"('Acquiring_Total_Funding', 'Acquiring_Text_global', 'Acquiring_Text_platform', 'Acquiring_Text_web', 'Acquired_Text_online', 'Acquired_Text_service', 'News_Text_million', 'Acquiring_Founders_length')",8,0.6752602232770606,0.29468311140701153
+"('Acquiring_Total_Funding', 'Acquiring_State_California', 'Acquiring_Text_providing', 'Acquiring_Text_web', 'Acquired_Text_online', 'Acquired_Text_service', 'News_Text_million', 'Acquiring_Founders_length')",8,0.6884312753989641,0.2916846636367464
+"('Acquiring_Total_Funding', 'Acquiring_State_California', 'Acquiring_Text_web', 'Acquired_Text_service', 'News_Text_million', 'Acquiring_Founders_length')",6,0.6611793980695642,0.2881532815336184
+"('Acquiring_Text_customer', 'Acquiring_Text_global', 'Acquired_Text_service', 'News_Text_million', 'Acquiring_Founders_length')",5,0.6675769510493911,0.2782785254424116
+"('Acquiring_Total_Funding', 'Acquiring_State_California', 'Acquiring_Text_platform', 'Acquiring_Text_web', 'Acquired_Text_service', 'News_Text_million', 'Acquiring_Founders_length')",7,0.6572771693131894,0.27624335903261865
